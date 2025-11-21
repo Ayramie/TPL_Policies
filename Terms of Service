@@ -1,0 +1,92 @@
+This End-User License Agreement (“Agreement”) governs the use of the Timesheet-Connector integration used by employees of The Prairie Line to interface the internal Timesheet Application with Intuit QuickBooks Online.
+
+This software is an internal-use business tool, not a public product.
+
+1. License Grant
+
+The Prairie Line authorizes its employees and contractors to use the Timesheet-Connector solely for:
+
+Entering, validating, and processing timesheet hours
+
+Transmitting time and payroll data to QuickBooks Online
+
+Supporting internal payroll, accounting, and administrative workflows
+
+No license is granted to the public.
+
+2. Ownership
+
+All rights, title, and interest in the Timesheet-Connector and related configurations belong to The Prairie Line.
+
+The software is not sold or distributed externally.
+
+3. Acceptable Use
+
+Users agree to:
+
+Use the system only for legitimate company business
+
+Enter accurate work and timesheet information
+
+Avoid attempting to modify, reverse engineer, or misuse the system
+
+Maintain confidentiality of payroll and operational data
+
+4. Third-Party Integrations
+
+The Timesheet-Connector interacts with:
+
+Microsoft Dataverse (internal)
+
+Microsoft Power Apps
+
+Intuit QuickBooks Online
+
+All data remains under The Prairie Line’s security controls.
+No external data storage is used.
+
+5. Disclaimer of Warranties
+
+The Timesheet-Connector is provided “as-is” for internal use.
+The Prairie Line makes no guarantee regarding:
+
+Uninterrupted access
+
+Error-free operation
+
+Compatibility outside the approved Microsoft/Intuit environment
+
+6. Limitation of Liability
+
+The Prairie Line is not liable for:
+
+Data entry mistakes
+
+Incorrect time submissions
+
+Misuse of the Timesheet Application
+
+Business impacts resulting from inaccurate or incomplete information
+
+7. Termination
+
+Access to Timesheet-Connector may be revoked if a user:
+
+Leaves the company
+
+Violates internal policies
+
+Misuses payroll systems
+
+Attempts unauthorized access
+
+8. Changes to This Agreement
+
+The Prairie Line may update this EULA as needed.
+Users will be notified through internal communication channels.
+
+9. Contact
+
+Questions regarding this Agreement may be directed to:
+
+📧 alex@theprairieline.com
