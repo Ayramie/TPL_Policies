@@ -1,0 +1,83 @@
+This Privacy Policy describes how The Prairie Line (“we”, “our”, “the Company”) manages information processed through the Timesheet-Connector integration, which connects our internal Timesheet Application (built in Microsoft Power Apps) to Intuit QuickBooks Online.
+
+This application is used exclusively by employees and authorized personnel of The Prairie Line and is not offered as a public service or commercial product.
+
+1. Information We Collect
+
+Timesheet-Connector itself does not collect or store any information outside of The Prairie Line’s secure Microsoft environment.
+All data processed by the connector originates from:
+
+Timesheet entries submitted by Prairie Line employees
+
+Employee and customer data stored within internal Microsoft Dataverse / Power Apps
+
+Payroll and time-tracking data retrieved from QuickBooks Online (read-only)
+
+We do not capture or store any sensitive personal information outside the Company’s systems.
+
+2. How Data Is Used
+
+The Timesheet-Connector integrations are used solely to:
+
+Transfer timesheet data from the internal Timesheet Application to QuickBooks Online
+
+Validate payroll mappings (service items, pay types, overtime, etc.)
+
+Synchronize work hours, customer assignments, compensation data, and payroll references
+
+Support internal payroll processing and accounting operations
+
+No data is used for marketing, analytics, or any purpose unrelated to payroll and timesheet processing.
+
+3. Data Storage and Security
+
+All data remains inside:
+
+The Prairie Line’s Microsoft 365 tenant
+
+Microsoft Dataverse
+
+Intuit QuickBooks Online
+
+The Timesheet-Connector app does not store or retain any data in external servers, third-party systems, or developer-controlled environments.
+
+Access to data is restricted to authorized Prairie Line staff using Microsoft’s built-in security roles and Intuit permissions.
+
+4. Sharing of Information
+
+Data is not shared with:
+
+External users
+
+Third-party advertisers
+
+External systems or vendors
+
+Any party outside The Prairie Line, unless required by law
+
+Information is transmitted only between The Prairie Line’s internal systems and Intuit QuickBooks Online according to configured permissions.
+
+5. Data Retention
+
+The Prairie Line retains data only as long as necessary to support payroll operations and accounting requirements.
+Retention policies follow internal Company procedures and legal obligations.
+
+6. Employee Rights
+
+Employees of The Prairie Line may request:
+
+Correction of inaccurate timesheet or payroll-related information
+
+Review or verification of data processed by Timesheet-Connector
+
+Requests can be submitted to:
+📧 alex@theprairieline.com
+
+7. Policy Updates
+
+We may update this policy as needed. Any updates will be posted to the publicly accessible policy page.
+
+8. Contact
+
+For questions about this Privacy Policy, contact:
+📧 alex@theprairieline.com
